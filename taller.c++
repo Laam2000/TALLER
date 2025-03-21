@@ -1,3 +1,5 @@
+// luis alber mosquera angulo
+
 #include <iostream>
 #include <cstring>   
 using namespace std; 
